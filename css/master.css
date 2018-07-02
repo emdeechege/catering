@@ -1,4 +1,17 @@
 .card{
 float:left;
 margin:2px;
+flex:auto;
+}
+img{
+  height:125px;
+  width:125px;
+  margin: auto
+  display:block;
+}
+.row{
+  height:150px;
+}
+* {
+  padding: 6px;
 }
